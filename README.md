@@ -1,6 +1,9 @@
 # 🎮 Jogo de Plataforma 2D
 
 Este é um jogo de plataforma 2D tradicional, desenvolvido utilizando o plano cartesiano (eixos X e Y) para exibir objetos como o personagem, cenário, obstáculos e itens coletáveis.
+O objetivo principal do jogo é navegar por diferentes níveis, superando desafios e coletando itens ao longo do caminho.
+Se o personagem cair em um buraco, o jogador perde uma vida e deve reiniciar o nível atual.
+Se todas as vidas forem perdidas, o progresso do jogador e descartado e reiniciado na fase 1.
 
 ---
 
