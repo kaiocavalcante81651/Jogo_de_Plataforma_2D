@@ -52,3 +52,22 @@ Caso deseje rodar o projeto diretamente na engine:
 2. Instale o editor **Unity 6000.2.7f2**.  
 3. No Unity Hub, selecione **Add Project** e aponte para a pasta do repositório baixado.  
 4. Abra o projeto normalmente.
+
+---
+
+Fase 1
+
+<img width="1079" height="606" alt="fase1" src="https://github.com/user-attachments/assets/4cf0e342-98e1-4848-8cc4-dda3a602f4bf" />
+
+---
+
+Fase 2
+
+<img width="1083" height="603" alt="fase2" src="https://github.com/user-attachments/assets/c248b715-1b85-41c2-8fba-c1586fc1403e" />
+
+---
+
+Fase 3
+
+<img width="1080" height="604" alt="fase3" src="https://github.com/user-attachments/assets/d959d60b-c919-49ac-8b9f-aaab9f09e175" />
+
