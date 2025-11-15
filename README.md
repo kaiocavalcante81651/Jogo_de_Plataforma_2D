@@ -1,0 +1,51 @@
+# 🎮 Jogo de Plataforma 2D
+
+Este é um jogo de plataforma 2D tradicional, desenvolvido utilizando o plano cartesiano (eixos X e Y) para exibir objetos como o personagem, cenário, obstáculos e itens coletáveis.
+
+---
+
+## 🚀 Mecânicas do Jogo
+
+As principais mecânicas incluem:
+
+- Correr  
+- Pular  
+- Escalar  
+
+O jogo também conta com animações específicas para cada uma dessas ações, como ficar parado, correr e pular.
+
+---
+
+## 🎮 Controles
+
+Os controles foram desenvolvidos para serem simples e intuitivos:
+
+- **Setas ← →** ou **A / D** — movimentação horizontal  
+- **Espaço** — pular  
+
+A **câmera acompanha automaticamente** o personagem em ambas as direções, sem necessidade de qualquer comando adicional.
+
+---
+
+## 🛠 Instruções de Execução
+
+Para executar o projeto via Unity:
+
+1. Baixe este repositório para sua máquina.  
+2. Alguns arquivos foram ignorados pelo arquivo `.gitignore` (boas práticas), portanto não são baixados pelo GitHub.  
+3. Parte desses arquivos é recriada automaticamente pela Unity, porém alguns podem não ser restaurados, o que pode impedir a execução completa do projeto.  
+4. Para minimizar esse problema, há uma **versão executável** do jogo disponível mediante solicitação.
+
+📩 Para solicitar o arquivo executável, entre em contato:  
+**kaio.cavalcante.81651@a.fecaf.com.br**
+
+---
+
+## 🧩 Executando na Unity
+
+Caso deseje rodar o projeto diretamente na engine:
+
+1. Instale o **Unity Hub**.  
+2. Instale o editor **Unity 6000.2.7f2**.  
+3. No Unity Hub, selecione **Add Project** e aponte para a pasta do repositório baixado.  
+4. Abra o projeto normalmente.
